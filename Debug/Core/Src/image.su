@@ -1,0 +1,7 @@
+image.c:11:6:computeModeAndSize	24	static
+image.c:24:5:computeNumOfBytes	24	static
+image.c:35:6:decimalToBinary	24	static
+image.c:47:6:fillArrayWithZeros	24	static
+image.c:56:9:countDots	24	static
+image.c:69:6:fillArray	56	static
+image.c:100:6:prepareArrayAsLinear	32	static

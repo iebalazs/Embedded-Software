@@ -1,0 +1,5 @@
+plotter.c:11:6:moveXY	16	static
+plotter.c:17:6:moveZ	8	static
+plotter.c:26:6:moveLinear	16	static
+plotter.c:39:6:print	24	static
+plotter.c:56:6:printLinear	24	static
